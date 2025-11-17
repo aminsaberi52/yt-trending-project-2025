@@ -1,6 +1,8 @@
 # yt-trending-project-2025
 Data analysis project based on the multi-country YouTube Trending dataset. Includes dataset integration, data cleaning, feature engineering, time-based clustering, and analytical tasks required by the 2025–26 Foundations of Computer Science course.
 
+# Dataset should be placed locally in trendingYT/ folder
+
 📊 YouTube Trending Data Analysis
 Foundations of Computer Science — Project 2025–26
 
